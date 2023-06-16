@@ -1,4 +1,4 @@
-# random_joke
+# r_joke_generator
 
 ## **Random Joke Generator**
 This is a simple Python program that generates random jokes by fetching data from an API. Each time the program is executed, it retrieves a joke from the API and displays it on the screen.
