@@ -2,7 +2,7 @@ import requests
 from questionary import select
 
 def get_random_joke(category=None):
-    url = 'https://official-joke-api.appspot.com/jokes/random'
+    url = 'https://official-joke-api.appspot.com/jokes/random' #something wrong with languages
 
     params = {}
     if category:
