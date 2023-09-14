@@ -28,7 +28,7 @@ categories = [
 
 # Prompt user to select a category for the joke
 selected_category = select(
-    'Choose a category for the joke:',
+    'Choose a category for the your joke:',
     choices=categories
 ).ask()
 
