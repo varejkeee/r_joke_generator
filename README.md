@@ -8,7 +8,7 @@ This is a simple Python program that generates random jokes by fetching data fro
 - Combines the setup and punchline of the joke.
 - Displays the generated joke on the command line.
 ## Requirements
-- Python 3.x
+- Python 3.10 or newest.
 - The `requests` and `questionary` libraries.
 ## Installation
 - Make sure you have Python 3.x installed on your system.
